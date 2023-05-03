@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import moment from 'moment';
 import React from 'react';
 import { Card, Image } from 'react-bootstrap';
